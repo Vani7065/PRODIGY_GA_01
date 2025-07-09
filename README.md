@@ -1,4 +1,5 @@
 PRODIGY_GA_01 – Text Generation with GPT-2
+
 🎯 Task Objective:
 
 Train a model to generate coherent and contextually relevant text based on a given prompt using GPT-2, a transformer model by OpenAI.
